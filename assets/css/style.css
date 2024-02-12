@@ -1638,3 +1638,15 @@ h6 {
   font-size: 13px;
   color: #ddd;
 }
+
+
+ .responsive-image {
+   width: 100%; /* Makes the image take up 100% of the container's width */
+   height: auto; /* Scales the height automatically to maintain the aspect ratio */
+   max-width: 100%; /* Ensures the image is never larger than its original size */
+ }
+
+.large-font {
+  font-size: 20px;
+  color: red; /* Sets the text color */
+}
