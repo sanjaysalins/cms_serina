@@ -1641,9 +1641,9 @@ h6 {
 
 
  .responsive-image {
-   width: 100%; /* Makes the image take up 100% of the container's width */
+   width: 90%; /* Makes the image take up 100% of the container's width */
    height: auto; /* Scales the height automatically to maintain the aspect ratio */
-   max-width: 100%; /* Ensures the image is never larger than its original size */
+   max-width: 90%; /* Ensures the image is never larger than its original size */
  }
 
 .large-font {
